@@ -6,7 +6,8 @@ import Modal from 'react-modal';
 const OPTIONS = [
     "Kohl's",
     "Highway Expansion",
-    "Wrapped in the axel"
+    "Wrapped in the axel",
+    "Progressive Elaboration"
 ];
 
 class App extends Component {
